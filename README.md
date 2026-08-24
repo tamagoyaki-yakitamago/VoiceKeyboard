@@ -3,7 +3,7 @@
 **iPhone 向け音声入力・要約アプリ**
 
 ## Overview
-VoiceKeyboard は、iOS 26+、Swift 6、SwiftUI をベースにした音声入力と下書き作成を支援するアプリです。オンデバイス音声認識（`SpeechAnalyzer` / `SpeechTranscriber`）と Apple Intelligence を活用し、リアルタイム文字起こし・要約・整文・タイトル生成が可能です。
+VoiceKeyboard は、iOS 26+、Swift 6、SwiftUI をベースにした音声入力と要約作成を支援するアプリです。オンデバイス音声認識（`SpeechAnalyzer` / `SpeechTranscriber`）と Apple Intelligence を活用し、リアルタイム文字起こし・要約・整文・タイトル生成が可能です。
 
 ## Features
 - 録音開始 → リアルタイム文字起こし（ボランタリーボリュームテキスト）
