@@ -3,7 +3,7 @@
 **iPhone voice input and summary app**
 
 ## Overview
-VoiceKeyboard is an iPhone app built with iOS 26+, Swift 6 and SwiftUI that assists with voice input and drafting. It leverages on‑device speech recognition (`SpeechAnalyzer` / `SpeechTranscriber`) and Apple Intelligence to provide real‑time transcription, summarization, text polishing, and title generation.
+VoiceKeyboard is an iPhone app built with iOS 26+, Swift 6 and SwiftUI that assists with voice input and creating summary. It leverages on‑device speech recognition (`SpeechAnalyzer` / `SpeechTranscriber`) and Apple Intelligence to provide real‑time transcription, summarization, text polishing, and title generation.
 
 ## Features
 - Start recording → real‑time transcription (volatile text)
