@@ -1,0 +1,13 @@
+"保存しました" = "Saved";
+"要約中…" = "Summarizing…";
+"整文中…" = "Refining…";
+"タイトル生成中…" = "Generating Title…";
+"要約完了" = "Summarization complete";
+"整文完了" = "Refinement complete";
+"タイトル生成完了" = "Title generation complete";
+"マイクの使用が許可されていません。設定アプリから許可してください。" = "Microphone permission denied. Please enable it in Settings.";
+"録音開始" = "Start Recording";
+"録音停止" = "Stop Recording";
+"保存" = "Save";
+"音声認識を準備中…" = "Preparing speech recognition…";
+"再試行" = "Retry";
