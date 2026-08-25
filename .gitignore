@@ -65,3 +65,5 @@ fastlane/test_output
 docs
 .opencode
 .DS_Store
+opencode.json
+skills-lock.json
